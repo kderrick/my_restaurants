@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Restaurants</string>
+<<<<<<< HEAD
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+=======
+>>>>>>> 8e0d3a2681102eec2bffd78d11b5042ba7d24b62
+</resources>

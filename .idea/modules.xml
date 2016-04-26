@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/My-Restaurants-master.iml" filepath="$PROJECT_DIR$/My-Restaurants-master.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/My-Restaurants.iml" filepath="$PROJECT_DIR$/My-Restaurants.iml" />
+>>>>>>> 8e0d3a2681102eec2bffd78d11b5042ba7d24b62
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
